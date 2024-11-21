@@ -1,0 +1,73 @@
+/* Place your CSS styles in this file */
+
+    h1 {
+        color:rgb(83, 198, 159);
+        text-align: center;
+        border: 5px solid crimson;
+        border-style: groove;
+        border-radius: 20px;
+        width: 450px;
+        margin: auto;
+        font-family: fantasy;
+        font-style: italic;
+        }
+    h2 {
+        color: crimson;
+        text-align:center;
+        font-family: fantasy;
+        font-style: italic;
+    }
+    p {
+        color:aqua;
+        text-align: center;
+        font-family: cursive;
+    }
+    body {
+        background-color: black;
+    }
+    button {
+        color:darkblue;
+    }
+    header {
+        background-color:gray;
+    }
+    a {
+        color:crimson;
+    }
+    img {
+        height:40px;
+        width:40px;
+    }
+    .center {
+        margin: auto;
+        width:650px;
+    }
+    .avatar {
+        display: block;
+         width: 70px;
+         height: 70px;
+         border-radius: 50%;
+         margin-left: auto;
+         margin-right: auto;
+}
+h3 {
+    text-align: center;
+    color: cornflowerblue;
+    font-family: fantasy;
+    font-style: italic;
+}
+td {
+    text-align: center;
+    background-color: rgb(83, 198, 159);
+    color: crimson;
+    border: solid crimson;
+    font-family:fantasy;
+    font-style: italic;
+}
+tr {
+    border: solid crimson;
+}
+table {
+    width: 100px;
+    margin: auto;
+}
